@@ -3,8 +3,7 @@ This is a portfolio project which is built flow the Complete React Developer in 
 
 Link course: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
-## The second largest heading
-Tech stack used in the project:
+## Tech stack used in the project:
 
 **ReactJS**: https://reactjs.org/docs/getting-started.html
 
