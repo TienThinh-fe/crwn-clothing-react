@@ -6,8 +6,11 @@ Link course: https://www.udemy.com/course/complete-react-developer-zero-to-maste
 ## The second largest heading
 Tech stack used in the project:
 **ReactJS**
+
 **Redux**
+
 **Firebase**
+
 **Stripe**
 
 ## To start:
