@@ -6,13 +6,15 @@ Link course: https://www.udemy.com/course/complete-react-developer-zero-to-maste
 ## The second largest heading
 Tech stack used in the project:
 
-**ReactJS**
+**ReactJS**: https://reactjs.org/docs/getting-started.html
 
-**Redux**
+**React Router**: https://v5.reactrouter.com/web/guides/quick-start
 
-**Firebase**
+**Redux**: https://redux.js.org/introduction/getting-started
 
-**Stripe**
+**Firebase**: https://firebase.google.com/docs
+
+**Stripe**: https://dashboard.stripe.com/test/developers
 
 ## To start:
 Clone the project: 
