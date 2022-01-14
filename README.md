@@ -30,3 +30,6 @@ Start the development server:
 ```
 yarn start
 ```
+
+## Deployed to Heroku:
+https://crwn-golive.herokuapp.com/
