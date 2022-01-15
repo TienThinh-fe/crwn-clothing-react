@@ -15,6 +15,8 @@ Link course: https://www.udemy.com/course/complete-react-developer-zero-to-maste
 
 **Stripe**: https://dashboard.stripe.com/test/developers
 
+**Styled-components**: https://styled-components.com/docs
+
 ## To start:
 Clone the project: 
 ```
