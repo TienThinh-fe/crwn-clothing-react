@@ -11,6 +11,8 @@ Link course: https://www.udemy.com/course/complete-react-developer-zero-to-maste
 
 **Redux**: https://redux.js.org/introduction/getting-started
 
+**Redux Thunk**: https://www.npmjs.com/package/redux-thunk
+
 **Firebase**: https://firebase.google.com/docs
 
 **Stripe**: https://dashboard.stripe.com/test/developers
