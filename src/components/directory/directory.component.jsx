@@ -7,7 +7,6 @@ import { selectDirectorySection } from "../../redux/directory/directory.selector
 import "./directory.styles.scss";
 
 function Directory({ sections }) {
-  console.log(sections);
   return (
     <div className="directory-menu">
       {sections.map(({ id, ...otherSectionProps }) => (
