@@ -13,6 +13,8 @@ Link course: https://www.udemy.com/course/complete-react-developer-zero-to-maste
 
 **Redux Thunk**: https://www.npmjs.com/package/redux-thunk
 
+**Redux Saga**: https://redux-saga.js.org/
+
 **Firebase**: https://firebase.google.com/docs
 
 **Stripe**: https://dashboard.stripe.com/test/developers
