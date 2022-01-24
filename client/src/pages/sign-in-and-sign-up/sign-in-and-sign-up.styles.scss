@@ -3,4 +3,13 @@
   display: flex;
   justify-content: space-between;
   margin: 32px auto;
+
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+    width: 90vw;
+
+    form {
+      width: 96%;
+    }
+  }
 }
