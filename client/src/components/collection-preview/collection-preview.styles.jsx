@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const CollectionPreviewContainer = styled.div`
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   margin-bottom: 30px;
 
   @media screen and (max-width: 800px) {
