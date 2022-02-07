@@ -3,11 +3,9 @@ import styled from "styled-components";
 export const CollectionPreviewContainer = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   margin-bottom: 30px;
-
   @media screen and (max-width: 800px) {
-    align-item: center;
+    align-items: center;
   }
 `;
 
@@ -23,10 +21,9 @@ export const TitleContainer = styled.h1`
 export const PreviewContainer = styled.div`
   display: flex;
   justify-content: space-between;
-
   @media screen and (max-width: 800px) {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 15px;
   }
 `;

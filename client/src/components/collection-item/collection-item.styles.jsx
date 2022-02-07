@@ -17,7 +17,6 @@ export const CollectionItemContainer = styled.div`
       display: flex;
     }
   }
-
   @media screen and (max-width: 800px) {
     width: 40vw;
     &:hover {
@@ -25,8 +24,7 @@ export const CollectionItemContainer = styled.div`
         opacity: unset;
       }
       button {
-        opacity: 0.85;
-        display: flex;
+        opacity: unset;
       }
     }
   }
@@ -38,10 +36,11 @@ export const AddButton = styled(CustomButton)`
   position: absolute;
   top: 255px;
   display: none;
-
   @media screen and (max-width: 800px) {
     display: block;
-    top: 250px;
+    opacity: 0.9;
+    min-width: unset;
+    padding: 0 10px;
   }
 `;
 
@@ -56,19 +55,18 @@ export const BackgroundImage = styled.div`
 
 export const CollectionFooterContainer = styled.div`
   width: 100%;
-  height: 8%;
+  height: 10%;
   display: flex;
   justify-content: space-between;
-  font-size: 16px;
-  margin-bottom: 8px;
+  font-size: 12px;
 `;
 
 export const NameContainer = styled.span`
-  width: 80%;
+  width: 90%;
   margin-bottom: 15px;
 `;
 
 export const PriceContainer = styled.span`
-  width: 20%;
+  width: 10%;
   text-align: right;
 `;
